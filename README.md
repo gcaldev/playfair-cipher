@@ -14,6 +14,6 @@ lmnop
 qrstu
 vwxyz
 
-Input1: C // Cipher
+Input1: C (for encoding)
 Input2: vlhksio
 Output: aqiftho
